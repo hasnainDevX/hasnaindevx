@@ -22,7 +22,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasnaindevx&theme=github-compact" alt="Contribution Graph" width="100%"/>
 </div>
 
-## 🚀 Technologies & Tools
+## Technologies & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
@@ -41,6 +41,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hasnaindevx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ## 🌐 Connect with Me
