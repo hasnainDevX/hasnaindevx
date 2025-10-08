@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hasnain</h1>
+<h1 align="center">Hi there, I'm Muhammad Hasnain</h1>
 <h3 align="center">A passionate MERN Stack Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
