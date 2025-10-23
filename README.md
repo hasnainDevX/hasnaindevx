@@ -1,153 +1,274 @@
-# Hi there, I'm Muhammad Hasnain 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Statistics</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-### A passionate MERN Stack Developer from Pakistan 🇵🇰
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif;
+            background: #f8f9fa;
+            padding: 60px 20px;
+            min-height: 100vh;
+        }
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563eb&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Full+Stack+Engineer;Always+learning+new+things" alt="Typing SVG" />
-</div>
+        .wrapper {
+            max-width: 900px;
+            margin: 0 auto;
+        }
 
----
+        .header {
+            margin-bottom: 50px;
+            text-align: center;
+        }
 
-<div align="center">
+        .header h2 {
+            font-size: 28px;
+            font-weight: 600;
+            color: #1a1a1a;
+            letter-spacing: -0.3px;
+        }
 
-## 🏆 GitHub Trophies
+        .stats-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+            gap: 16px;
+            margin-bottom: 48px;
+        }
 
-<img src="https://github-profile-trophy.vercel.app/?username=hasnaindevx&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+        .stat-box {
+            background: white;
+            padding: 24px 16px;
+            border-radius: 8px;
+            border: 1px solid #e5e7eb;
+            text-align: center;
+            transition: all 0.2s ease;
+        }
 
-</div>
+        .stat-box:hover {
+            border-color: #d1d5db;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
 
----
+        .stat-value {
+            font-size: 32px;
+            font-weight: 700;
+            color: #1a1a1a;
+            margin-bottom: 6px;
+        }
 
-<div align="center">
+        .stat-label {
+            font-size: 12px;
+            color: #6b7280;
+            font-weight: 500;
+            letter-spacing: 0.3px;
+        }
 
-## 📊 GitHub Statistics
+        .section {
+            background: white;
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            padding: 32px;
+            margin-bottom: 24px;
+        }
 
-</div>
+        .section-title {
+            font-size: 14px;
+            font-weight: 600;
+            color: #1a1a1a;
+            margin-bottom: 24px;
+            letter-spacing: 0.3px;
+            text-transform: uppercase;
+        }
 
-<div align="center">
+        .languages {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
 
-### 📈 Quick Stats
+        .language-item {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
 
-| Metric | Value |
-|--------|-------|
-| ⭐ Total Stars | 57 |
-| 📝 Total Commits | 140 |
-| 🔀 Pull Requests | 4 |
-| 🐛 Issues | 0 |
-| 🎯 Total Contributions | 239 |
-| 🔥 Current Streak | 2 days |
-| 📊 Longest Streak | 7 days |
-| 👥 Followers | 16 |
+        .language-label {
+            font-size: 13px;
+            font-weight: 500;
+            color: #374151;
+            min-width: 90px;
+        }
 
-</div>
+        .language-bar-container {
+            flex: 1;
+            height: 4px;
+            background: #e5e7eb;
+            border-radius: 2px;
+            overflow: hidden;
+        }
 
-<div align="center">
+        .language-bar {
+            height: 100%;
+            border-radius: 2px;
+            transition: width 0.3s ease;
+        }
 
-### 🗣️ Most Used Languages
+        .bar-js { background: #f59e0b; }
+        .bar-html { background: #ef4444; }
+        .bar-ts { background: #3b82f6; }
+        .bar-css { background: #8b5cf6; }
+        .bar-scss { background: #ec4899; }
 
-```
-JavaScript    45.06%  ████████████████████████░░░░░░░░░
-HTML          29.90%  █████████████████░░░░░░░░░░░░░░░░
-TypeScript    19.78%  ███████████░░░░░░░░░░░░░░░░░░░░░░
-CSS            4.92%  ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-SCSS           0.34%  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
+        .language-percent {
+            font-size: 12px;
+            color: #9ca3af;
+            font-weight: 500;
+            min-width: 40px;
+            text-align: right;
+        }
 
-</div>
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 24px;
+        }
 
-<div align="center">
+        .info-item {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
 
-### 📊 Performance Grade
+        .info-label {
+            font-size: 12px;
+            color: #6b7280;
+            font-weight: 500;
+            letter-spacing: 0.3px;
+        }
 
-**Overall: B-** (57 Stars | 140 Commits | 4 PRs)
+        .info-value {
+            font-size: 24px;
+            font-weight: 700;
+            color: #1a1a1a;
+        }
 
-</div>
+        @media (max-width: 640px) {
+            .stats-container {
+                grid-template-columns: repeat(2, 1fr);
+            }
 
----
+            .section {
+                padding: 24px;
+            }
 
-<div align="center">
+            .stat-value {
+                font-size: 24px;
+            }
 
-## 🛠️ Technologies & Tools
+            .header h2 {
+                font-size: 22px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="header">
+            <h2>GitHub Statistics</h2>
+        </div>
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-<br>Next.js
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
-<br>Express
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
-<br>Tailwind
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-</tr>
-</table>
+        <div class="stats-container">
+            <div class="stat-box">
+                <div class="stat-value">57</div>
+                <div class="stat-label">Total Stars</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-value">140</div>
+                <div class="stat-label">Commits</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-value">4</div>
+                <div class="stat-label">Pull Requests</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-value">0</div>
+                <div class="stat-label">Issues</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-value">239</div>
+                <div class="stat-label">Contributions</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-value">2</div>
+                <div class="stat-label">Current Streak</div>
+            </div>
+        </div>
 
-</div>
+        <div class="section">
+            <div class="section-title">Most Used Languages</div>
+            <div class="languages">
+                <div class="language-item">
+                    <div class="language-label">JavaScript</div>
+                    <div class="language-bar-container">
+                        <div class="language-bar bar-js" style="width: 45.06%"></div>
+                    </div>
+                    <div class="language-percent">45.06%</div>
+                </div>
+                <div class="language-item">
+                    <div class="language-label">HTML</div>
+                    <div class="language-bar-container">
+                        <div class="language-bar bar-html" style="width: 29.90%"></div>
+                    </div>
+                    <div class="language-percent">29.90%</div>
+                </div>
+                <div class="language-item">
+                    <div class="language-label">TypeScript</div>
+                    <div class="language-bar-container">
+                        <div class="language-bar bar-ts" style="width: 19.78%"></div>
+                    </div>
+                    <div class="language-percent">19.78%</div>
+                </div>
+                <div class="language-item">
+                    <div class="language-label">CSS</div>
+                    <div class="language-bar-container">
+                        <div class="language-bar bar-css" style="width: 4.92%"></div>
+                    </div>
+                    <div class="language-percent">4.92%</div>
+                </div>
+                <div class="language-item">
+                    <div class="language-label">SCSS</div>
+                    <div class="language-bar-container">
+                        <div class="language-bar bar-scss" style="width: 0.34%"></div>
+                    </div>
+                    <div class="language-percent">0.34%</div>
+                </div>
+            </div>
+        </div>
 
----
-
-<div align="center">
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-hasnain-5a8b2b313)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasnain.mh79@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://hasnainwebworks.vercel.app)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=hasnaindevx&label=Profile%20Views&color=2563eb&style=flat-square)
-
-</div>
-
-<div align="center">
-
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-</div>
+        <div class="section">
+            <div class="section-title">Overview</div>
+            <div class="info-grid">
+                <div class="info-item">
+                    <div class="info-label">Followers</div>
+                    <div class="info-value">16</div>
+                </div>
+                <div class="info-item">
+                    <div class="info-label">Following</div>
+                    <div class="info-value">6</div>
+                </div>
+                <div class="info-item">
+                    <div class="info-label">Longest Streak</div>
+                    <div class="info-value">7 days</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
