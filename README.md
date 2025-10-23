@@ -1,11 +1,9 @@
-<div align="center">
-
 # Hi there, I'm Muhammad Hasnain 👋
 
 ### A passionate MERN Stack Developer from Pakistan 🇵🇰
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B7280&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Full+Stack+Engineer;Always+learning+new+things" alt="Typing SVG" />
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563eb&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Full+Stack+Engineer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 ---
@@ -14,7 +12,7 @@
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=hasnaindevx&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hasnaindevx&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 
 </div>
 
@@ -24,15 +22,44 @@
 
 ## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=hasnaindevx&show_icons=true&theme=dark&bg_color=1f2937&text_color=ffffff&icon_color=3b82f6&title_color=3b82f6&border_color=374151&hide_border=false" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaindevx&layout=compact&theme=dark&bg_color=1f2937&text_color=ffffff&title_color=3b82f6&border_color=374151&hide_border=false" alt="Top Languages" height="180"/>
+</div>
+
+<div align="center">
+
+### 📈 Quick Stats
+
+| Metric | Value |
+|--------|-------|
+| ⭐ Total Stars | 57 |
+| 📝 Total Commits | 140 |
+| 🔀 Pull Requests | 4 |
+| 🐛 Issues | 0 |
+| 🎯 Total Contributions | 239 |
+| 🔥 Current Streak | 2 days |
+| 📊 Longest Streak | 7 days |
+| 👥 Followers | 16 |
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnaindevx&theme=dark&background=1f2937&border=374151&stroke=3b82f6&ring=3b82f6&fire=f59e0b&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=9ca3af&sideLabels=9ca3af" alt="GitHub Streak" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasnaindevx&theme=github-dark-dimmed&bg_color=1f2937&color=3b82f6&line=3b82f6&point=ffffff&area=true&hide_border=false&border_color=374151" alt="Contribution Graph" width="49%"/>
+### 🗣️ Most Used Languages
+
+```
+JavaScript    45.06%  ████████████████████████░░░░░░░░░
+HTML          29.90%  █████████████████░░░░░░░░░░░░░░░░
+TypeScript    19.78%  ███████████░░░░░░░░░░░░░░░░░░░░░░
+CSS            4.92%  ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+SCSS           0.34%  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+</div>
+
+<div align="center">
+
+### 📊 Performance Grade
+
+**Overall: B-** (57 Stars | 140 Commits | 4 PRs)
 
 </div>
 
@@ -105,9 +132,9 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-hasnain-5a8b2b313)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasnain.mh79@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hasnainwebworks.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://hasnainwebworks.vercel.app)
 
 </div>
 
@@ -115,7 +142,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=hasnaindevx&label=Profile%20Views&color=3b82f6&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=hasnaindevx&label=Profile%20Views&color=2563eb&style=flat-square)
 
 </div>
 
