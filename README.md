@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Muhammad Hasnain
+# Hi there, I'm Hasnain
 
 ### A passionate MERN Stack Developer from Pakistan 🇵🇰
 
