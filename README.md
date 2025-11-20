@@ -41,15 +41,11 @@ Commits
 Pull Requests
 </td>
 <td width="150" align="center">
-<strong>0</strong><br/>
-Issues
-</td>
-<td width="150" align="center">
-<strong>239</strong><br/>
+<strong>252</strong><br/>
 Contributions
 </td>
 <td width="150" align="center">
-<strong>2</strong><br/>
+<strong>6</strong><br/>
 Current Streak
 </td>
 </tr>
@@ -83,7 +79,7 @@ SCSS         0.34%  ░░░░░░░░░░░░░░░░░░░░
 
 | Followers | Following | Longest Streak |
 |:---:|:---:|:---:|
-| **16** | **6** | **7 days** |
+| **18** | **7** | **10 days** |
 
 </div>
 
