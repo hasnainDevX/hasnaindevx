@@ -165,9 +165,7 @@ SCSS         0.34%  ░░░░░░░░░░░░░░░░░░░░
 ---
 
 <div align="center">
-
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=hasnaindevx&label=Profile%20Views&color=2563eb&style=flat-square)
 </div>
 
 <div align="center">
