@@ -33,7 +33,7 @@
 Total Stars
 </td>
 <td width="150" align="center">
-<strong>140</strong><br/>
+<strong>152</strong><br/>
 Commits
 </td>
 <td width="150" align="center">
@@ -79,7 +79,7 @@ SCSS         0.34%  ░░░░░░░░░░░░░░░░░░░░
 
 | Followers | Following | Longest Streak |
 |:---:|:---:|:---:|
-| **18** | **7** | **10 days** |
+| **18** | **7** | **20 days** |
 
 </div>
 
