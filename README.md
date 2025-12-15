@@ -1,137 +1,109 @@
 <div align="center">
 
-# Hi there, I'm Hasnain
+# Hi, I'm Hasnain 👋
 
-### A passionate MERN Stack Developer from Pakistan 🇵🇰
+### MERN Stack Developer | Pakistan 🇵🇰
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563eb&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Full+Stack+Engineer;Always+learning+new+things" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=hasnaindevx&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+Web+Solutions;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
+## 💫 About Me
+
+```javascript
+const hasnain = {
+    location: "Karachi, Pakistan",
+    education: "First Semester Student",
+    currentFocus: "MERN Stack Development",
+    learning: ["React", "Node.js", "MongoDB", "TypeScript"],
+    hobbies: ["Coding", "Problem Solving", "Building Projects"]
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-## 📊 GitHub Statistics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hasnaindevx&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnaindevx&theme=radical&hide_border=true" alt="GitHub Streak"/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hasnaindevx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=hasnaindevx&theme=tokyonight&hide_border=true" />
+</div>
 
-## 🗣️ Most Used Languages
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaindevx&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaindevx&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=hasnaindevx&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
+## 📈 Activity Graph
+
 <div align="center">
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasnaindevx&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasnaindevx&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
-
-<div align="center">
-
-## 🛠️ Technologies & Tools
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-<br>Next.js
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
-<br>Express
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
-<br>Tailwind
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
 
 ## 🌐 Connect With Me
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-hasnain-5a8b2b313)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hasnainwebworks.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasnain.mh79@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://hasnainwebworks.vercel.app)
 
 </div>
 
 ---
 
 <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=hasnaindevx&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </div>
+
+---
 
 <div align="center">
 
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+![Profile Views](https://komarev.com/ghpvc/?username=hasnaindevx&color=blueviolet&style=flat-square&label=Profile+Views)
+
+**Thanks for visiting! Let's build something amazing together 🚀**
 
 </div>
