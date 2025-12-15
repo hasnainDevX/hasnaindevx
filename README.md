@@ -24,32 +24,10 @@
 
 ## 📊 GitHub Statistics
 
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hasnaindevx&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnaindevx&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
-<table align="center">
-<tr>
-<td width="150" align="center">
-<strong>57</strong><br/>
-Total Stars
-</td>
-<td width="150" align="center">
-<strong>152</strong><br/>
-Commits
-</td>
-<td width="150" align="center">
-<strong>4</strong><br/>
-Pull Requests
-</td>
-<td width="150" align="center">
-<strong>252</strong><br/>
-Contributions
-</td>
-<td width="150" align="center">
-<strong>6</strong><br/>
-Current Streak
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -57,17 +35,7 @@ Current Streak
 
 ## 🗣️ Most Used Languages
 
-<div align="center">
-
-```
-JavaScript  45.06%  ████████████████████████░░░░░░░░░░░░░░░░
-HTML        29.90%  ███████████████░░░░░░░░░░░░░░░░░░░░░░░░
-TypeScript  19.78%  ███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-CSS          4.92%  ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-SCSS         0.34%  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaindevx&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 
 </div>
 
@@ -75,11 +43,9 @@ SCSS         0.34%  ░░░░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-## 📈 Overview
+## 📈 Contribution Graph
 
-| Followers | Following | Longest Streak |
-|:---:|:---:|:---:|
-| **18** | **7** | **20 days** |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasnaindevx&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
 
