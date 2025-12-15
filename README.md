@@ -32,7 +32,7 @@
 
 <div align="center">
 
-## 🗣️ Most Used Languages
+## Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaindevx&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
@@ -52,7 +52,7 @@
 
 <div align="center">
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <table>
 <tr>
