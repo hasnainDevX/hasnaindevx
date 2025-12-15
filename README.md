@@ -25,7 +25,6 @@
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnaindevx&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=hasnaindevx&theme=radical&hide_border=true)
 
 </div>
 
