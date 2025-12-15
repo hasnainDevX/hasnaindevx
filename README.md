@@ -14,7 +14,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hasnaindevx&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=hasnaindevx&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
@@ -24,8 +24,8 @@
 
 ## 📊 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hasnaindevx&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=hasnaindevx&theme=radical&hide_border=true" alt="GitHub Streak"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnaindevx&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=hasnaindevx&theme=radical&hide_border=true)
 
 </div>
 
@@ -35,7 +35,7 @@
 
 ## 🗣️ Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaindevx&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaindevx&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
 
@@ -45,7 +45,7 @@
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasnaindevx&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasnaindevx&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
