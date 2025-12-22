@@ -10,15 +10,16 @@
 
 ---
 
-<div>
-
+<div style="padding: 10px">
+   
 Junior Software Developer with hands-on experience in building modern, user-focused web applications. I have been actively working with frontend technologies for over two years, delivering real-world projects for clients and personal use.
 
 I am a Certified Meta Front-End Engineer and currently pursuing a BS in Software Engineering. My work focuses on writing clean, maintainable code and building responsive, performance-oriented web interfaces.
 
 </div>
 
-<div>
+<div style="padding: 10px">
+   
 ## What I’m Currently Working On
 
 - Learning **Python** to strengthen backend and problem-solving skills  
