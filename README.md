@@ -12,9 +12,9 @@
 
 <div align="center">
 
-## 🏆 GitHub Trophies
+Junior Software Developer with hands-on experience in building modern, user-focused web applications. I have been actively working with frontend technologies for over two years, delivering real-world projects for clients and personal use.
 
-<img src="https://github-profile-trophy.vercel.app/?username=hasnaindevx&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+I am a Certified Meta Front-End Engineer and currently pursuing a BS in Software Engineering. My work focuses on writing clean, maintainable code and building responsive, performance-oriented web interfaces.
 
 </div>
 
