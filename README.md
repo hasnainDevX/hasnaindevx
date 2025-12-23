@@ -94,6 +94,10 @@ I am a Certified Meta Front-End Engineer and currently pursuing a BS in Software
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
 <br>Express
 </td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
+<br>Azure
+</td>
 </tr>
 <tr>
 <td align="center" width="96">
@@ -120,15 +124,9 @@ I am a Certified Meta Front-End Engineer and currently pursuing a BS in Software
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
 <br>Git
 </td>
-</tr>
-<tr>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
 <br>Flask
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
-<br>Azure
 </td>
 </tr>
 </table>
