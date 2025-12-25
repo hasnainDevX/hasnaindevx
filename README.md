@@ -32,22 +32,17 @@ I am a Certified Meta Front-End Engineer and currently pursuing a BS in Software
 
 ---
 
-<div align="center">
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnaindevx&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-</div>
-
----
-
-<div align="center">
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=hasnaindevx&theme=radical&hide_border=true)
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaindevx&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasnaindevx&theme=radical)
 
-</div>
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasnaindevx&theme=react-dark&hide_border=true&area=true)
 ---
 
 <div align="center">
