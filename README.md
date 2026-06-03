@@ -22,7 +22,7 @@ I am a Certified Meta Front-End Engineer and currently pursuing a BS in Software
    
 ## What I’m Currently Working On
 
-- Learning **Python** to strengthen backend and problem-solving skills  
+- Learning **Python and Java** to strengthen backend and problem-solving skills  
 - Deepening expertise in **Flask** and **Next.js**, including routing, data fetching, and optimization  
 - Studying **microservices architecture** to understand scalable system design  
 - Freelancing and building websites for **international clients**  
