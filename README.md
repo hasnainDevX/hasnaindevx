@@ -2,7 +2,7 @@
 
 # Hi there, I'm Hasnain
 
-### A passionate MERN Stack Developer from Pakistan 🇵🇰
+### A passionate MERN Stack Web Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563eb&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Full+Stack+Engineer;Always+learning+new+things" alt="Typing SVG" />
 
